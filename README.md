@@ -11,7 +11,8 @@
 ## Description
 
 This repository contains the exercises implemented in Python from the book.
-Cracking the Coding Interview: 189 Programming Questions 6th Edition and Solutions by GAYLE LAAKMANN McDowELL
+Cracking the Coding Interview: 189 Programming Questions 6th Edition and Solutions by #### Technologies
+GAYLE LAAKMANN McDowELL
 
 #### Technologies
 
