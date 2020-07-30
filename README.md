@@ -5,6 +5,7 @@
 ### Table of Contents
 
 - [Description](#description)
+- [Arrays and Strings](./scr/01_array_strings)
 
 ---
 
