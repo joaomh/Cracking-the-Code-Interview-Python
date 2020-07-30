@@ -2,6 +2,8 @@
 
 ---
 
+![](./assets/prog.jpeg)
+
 ### Table of Contents
 
 - [Description](#description)
